@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -32,5 +33,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
