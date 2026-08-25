@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0493-reverse-pairs) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
