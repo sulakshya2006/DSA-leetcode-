@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0018-4sum) |
 ## Binary Search
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
