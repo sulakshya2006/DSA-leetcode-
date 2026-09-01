@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@
 | [0229-majority-element-ii](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
