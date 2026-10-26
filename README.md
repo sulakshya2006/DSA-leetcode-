@@ -96,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0141-linked-list-cycle](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sulakshya2006/DSA-leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
